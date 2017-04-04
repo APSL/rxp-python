@@ -50,4 +50,4 @@ Take a look at the Django demo project
 
 Documentation
 ~~~~~~~~~~~~~
-Visit the `documentation <http://kaneda.readthedocs.org>`_ for an in-depth look at AddonPayments SDK Python.
+Visit the documentation for an in-depth look at AddonPayments SDK Python.
